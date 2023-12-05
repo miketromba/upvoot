@@ -1,3 +1,13 @@
+# upvoot (WIP)
+A simple forums software with AWS, React, TypeScript, Go, Docker, Terraform, and more.
+
+### Threads list
+<img width="1165" alt="Screenshot 2023-12-04 at 10 19 16 PM" src="https://github.com/miketromba/upvoot/assets/25141252/163283cf-174c-47d6-aec7-020c5b0734e2">
+
+### Thread page
+<img width="1165" alt="Screenshot 2023-12-04 at 10 18 59 PM" src="https://github.com/miketromba/upvoot/assets/25141252/c107c282-d83e-4048-9d3d-c4e2a33ba969">
+
+# Next Docs
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
